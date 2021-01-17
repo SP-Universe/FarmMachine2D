@@ -11,6 +11,6 @@ public class IsoHelper : MonoBehaviour
 
     public Vector3 XYToIso(Vector3 v)
     {
-        return new Vector3(v.x + v.y, 0.5f * (v.y - v.x),0);
+        return new Vector3((v.x + v.y)*0.5f, 0.25f * (v.y - v.x) + (v.z * 0.5f), v.z);
     }
 }

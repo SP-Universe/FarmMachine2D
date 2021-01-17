@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\steff\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\steff\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FarmMachine2D.1015436656.00" t="ExcludeRecursive" />
+    <e p="E:\Git-Workspace\_SPGames\FarmMachine2D" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BlockBehaviour" t="Include">
+            <e p="Block_Grass.cs" t="Include" />
+          </e>
+          <e p="BlockBehaviour.cs" t="Include" />
+          <e p="GridManager.cs" t="Include" />
+          <e p="IsoHelper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FarmMachine2D.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
